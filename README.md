@@ -1,3 +1,5 @@
+All consequences arising from the use of BLE Programmer are the user's responsibility and I am not responsible.
+
 We focus on protecting your personal privacy. Sometimes we need certain information to provide you with the services you request. This privacy statement explains the collection and use of data in these situations. This privacy statement applies to all related services on this website. If you access this website and use any of the services on this website, you accept this privacy statement.
 User information acquisition
 
