@@ -1,3 +1,9 @@
+<!--
+ * @Author: Devin Wang
+ * @Date: 2020-02-14 15:34:25
+ * @LastEditors  : Devin Wang
+ * @LastEditTime : 2020-02-14 15:44:10
+ -->
 We focus on protecting your personal privacy. Sometimes we need certain information to provide you with the services you request. This privacy statement explains the collection and use of data in these situations. This privacy statement applies to all related services on this website. If you access this website and use any of the services on this website, you accept this privacy statement.
 User information acquisition
 
@@ -90,6 +96,7 @@ Other website links
 In order to provide you with more convenience and business information, this website may contain links to other websites. The operators of these websites may not be our affiliates. The linked site may also have its own privacy policy or statement, so we strongly recommend that you review these privacy policies or statements when you visit any of the linked sites. We are not responsible for the content of any websites not operated by us, any use of such websites or the privacy policies of such websites.
 
 Update of the Privacy Statement
+
 
 To the extent permitted by Chinese law, we may update this Privacy Statement from time to time without prior notice. We will post an announcement on a prominent location on this website to inform you of any significant changes to our Privacy Statement.
 
